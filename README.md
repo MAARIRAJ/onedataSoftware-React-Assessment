@@ -26,7 +26,7 @@ A responsive job portal built with React (Vite + JSX),TypeScript, Redux, Formik,
 # To run
 git clone https://github.com/yourusername/job-board.git
 
-cd job-board
+cd job-board-ts
 
 npm install
 
