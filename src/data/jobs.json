@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Tech Corp MNC",
+    "experience": 2,
+    "skills": ["React", "JavaScript", "CSS"],
+    "description": "Build and maintain UI components.",
+    "logo": "../assets/company1.jpg",
+    "applied": false
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "CodeBase Tech",
+    "experience": 3,
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "description": "Design and implement server-side APIs.",
+    "logo": "../assets/company2.jpeg",
+    "applied": false
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "DevSolutions pvt ltd",
+    "experience": 4,
+    "skills": ["React", "Node.js", "SQL"],
+    "description": "Develop and maintain full stack applications.",
+    "logo": "../assets/company3.jpg",
+    "applied": false
+  },
+  {
+    "id": 4,
+    "title": "Mobile App Developer",
+    "company": "Appify",
+    "experience": 2,
+    "skills": ["Flutter", "Dart", "Firebase"],
+    "description": "Create cross-platform mobile apps.",
+    "logo": "../assets/company4.jpg",
+    "applied": false
+  },
+  {
+    "id": 5,
+    "title": "Data Analyst",
+    "company": "Insight Co sdn bhd",
+    "experience": 3,
+    "skills": ["Python", "Pandas", "SQL"],
+    "description": "Analyze data and generate reports.",
+    "logo": "../assets/company5.jpg",
+    "applied": false
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Engineer",
+    "company": "AI Innovations",
+    "experience": 2,
+    "skills": ["Python", "TensorFlow", "scikit-learn"],
+    "description": "Build and train ML models.",
+    "logo": "../assets/company6.jpg",
+    "applied": false
+  },
+  {
+    "id": 7,
+    "title": "DevOps Engineer",
+    "company": "CloudNet ltd",
+    "experience": 3,
+    "skills": ["Docker", "Kubernetes", "AWS"],
+    "description": "Manage CI/CD pipelines and cloud infrastructure.",
+    "logo": "../assets/company7.jpg",
+    "applied": false
+  },
+  {
+    "id": 8,
+    "title": "UI/UX Designer",
+    "company": "DesignPro Software Solutions",
+    "experience": 2,
+    "skills": ["Figma", "Adobe XD", "User Research"],
+    "description": "Design intuitive user interfaces and experiences.",
+    "logo": "../assets/company8.webp",
+    "applied": false
+  },
+  {
+    "id": 9,
+    "title": "Software Tester",
+    "company": "BugCatcher LLC",
+    "experience": 1,
+    "skills": ["Selenium", "Jest", "Postman"],
+    "description": "Test applications and report bugs.",
+    "logo": "../assets/company9.webp",
+    "applied": false
+  },
+  {
+    "id": 10,
+    "title": "Database Administrator",
+    "company": "DataSecure pvt ltd",
+    "experience": 4,
+    "skills": ["MySQL", "PostgreSQL", "Backup Management"],
+    "description": "Manage and optimize database systems.",
+    "logo": "../assets/company10.webp",
+    "applied": false
+  },
+  {
+    "id": 11,
+    "title": "Cloud Architect",
+    "company": "SkyTech Info Solutions",
+    "experience": 5,
+    "skills": ["AWS", "Azure", "Infrastructure as Code"],
+    "description": "Design cloud solutions and architecture.",
+    "logo": "../assets/company11.jpg",
+    "applied": false
+  },
+  {
+    "id": 12,
+    "title": "Security Analyst",
+    "company": "CyberShield Pvt Ltd",
+    "experience": 3,
+    "skills": ["Network Security", "SIEM", "Penetration Testing"],
+    "description": "Monitor and secure IT infrastructure.",
+    "logo": "../assets/company12.png",
+    "applied": false
+  },
+  {
+    "id": 13,
+    "title": "Product Manager",
+    "company": "Visionary Technologies",
+    "experience": 4,
+    "skills": ["Agile", "Roadmaps", "Stakeholder Management"],
+    "description": "Define product vision and coordinate teams.",
+    "logo": "../assets/company13.jpg",
+    "applied": false
+  },
+  {
+    "id": 14,
+    "title": "Technical Writer",
+    "company": "DocuTech",
+    "experience": 2,
+    "skills": ["Markdown", "Git", "Documentation Tools"],
+    "description": "Write and maintain technical documentation.",
+    "logo": "../assets/company14.jpg",
+    "applied": false
+  },
+  {
+    "id": 15,
+    "title": "Support Engineer",
+    "company": "HelpHub Software Ltd",
+    "experience": 1,
+    "skills": ["Customer Service", "Debugging", "Ticketing Systems"],
+    "description": "Assist clients with technical issues.",
+    "logo": "../assets/company15.jpg",
+    "applied": false
+  },
+  {
+    "id": 16,
+    "title": "Design Engineer",
+    "company": "EQI",
+    "experience": 2,
+    "skills": ["AUTOCAD", "solid Edge", "ANSYS"],
+    "description": "Design and craftiong mouldings",
+    "logo": "https://via.placeholder.com/50",
+    "applied": false
+  }
+]
