@@ -5,7 +5,6 @@ import Login from "./pages/Login";
 import AdminPanel from "./pages/AdminPanel";
 import Signup from "./pages/Signup";
 
-// No props, so we can type this simply as React.FC
 const App: React.FC = () => {
   return (
     <Router>
